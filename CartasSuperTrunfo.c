@@ -71,4 +71,5 @@ int main() {
     printf("Número de Pontos Turísticos: %d\n", carta2_pontosTuristicos);
 
     return 0;
+    
 }
